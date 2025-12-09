@@ -36,4 +36,13 @@ Todo o desenho prioriza **uso responsável de IA generativa em EaD**, com:
 - **Camada de IA**: modelo Gemini, utilizado como camada de **seleção e explicação**, não como gerador livre de conteúdo.
 - **Camada de interface**: interface conversacional (chat) onde o estudante envia suas solicitações e recebe as recomendações.
 
+---
 
+## 3. Estrutura do repositório
+
+Sugestão de organização:
+
+tcc-gem-tutor-bi/
+├── prompts/
+│   └── prompt_sistema_gem_tutor_bi.txt
+└── README.md
